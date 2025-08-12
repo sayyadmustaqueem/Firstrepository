@@ -1,4 +1,4 @@
 # Firstrepository
 This is my first Git Repo
 <br>
-Author - Sayyad Mustaqueem
+Author - Sayyad Mustaqueem (MCA student)
